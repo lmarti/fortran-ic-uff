@@ -1,0 +1,6 @@
+5
+Pedro 10.0 7.5 9.6
+Andreia 9.8 7.5 8.7
+Maria 5.5 3.7 8.0
+Gustavo 3.0 4.4 7.8
+Flavio 7.5 7.5 8.0
